@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@kitsonk/kv-toolbox": "jsr:@kitsonk/kv-toolbox@^0.29.2",
+    "ical-generator": "npm:ical-generator@^9.0.0"
+  }
+}
